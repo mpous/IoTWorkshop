@@ -4,4 +4,6 @@ I posted data from light sensor and temperature from Arduino + Ethernet Shield t
 
 This is the picture of the Arduino shield with the sensors [http://www.flickr.com/photos/23124942@N03/7521441354/in/photostream/] by @tamberg
 
-This exercise was done during the IoT Workshop @ Zurich 7/7/2012.
+If anyone wants to adapt it introduce your Cosm key.
+
+This code was done during the IoT Workshop @ Zurich 7/7/2012. 
