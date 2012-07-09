@@ -27,7 +27,7 @@ http://arduino.cc/en/Tutorial/PachubeClient
 #include <SPI.h>
 #include <Ethernet.h>
 
-#define APIKEY         "XXX" // your cosm api key
+#define APIKEY         "XXXXXXXXXXX" // your cosm api key
 #define FEEDID         66484 // your feed ID
 #define USERAGENT      "Cosm Arduino Example (66484)" // user agent is the project name
 

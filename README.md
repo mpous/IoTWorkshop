@@ -12,6 +12,5 @@ This is the picture of the Arduino shield with the sensors [http://www.flickr.co
 
 ALERT: If anyone wants to adapt it introduce your Cosm key.
 
-
 This code was done during the IoT Workshop @ Zurich 7/7/2012 by @gy4nt thanks to @tamberg and @arduinopraxis.
 
