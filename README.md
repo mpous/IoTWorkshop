@@ -1,4 +1,5 @@
-=IoT Workshop @ Zurich 7/7/2012=
+IoT Workshop @ Zurich 7/7/2012
+============
 
 These are the prototypes developed during the IoT Workshop @ Zurich 7/7/2012
 
